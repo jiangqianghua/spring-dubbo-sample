@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49337ccd-bc4a-42b0-86cf-690b2226ee8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springbootdubbo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootdubbo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootdubbo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootdubbo/consumer/src/main/java/com/jqh/consumer/service/ServiceConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootdubbo/consumer/src/main/java/com/jqh/consumer/service/ServiceConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootdubbo/consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootdubbo/consumer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootdubbo/privoder/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootdubbo/privoder/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootdubbo/privoder/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootdubbo/privoder/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -56,14 +63,36 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1669347722">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="-2400">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -71,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/provider/src/main/resources/applicationContext-provider.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            <state relative-caret-position="404">
+              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -80,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/jqh/ProviderClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="28" selection-start-line="6" selection-start-column="7" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="288">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -89,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/consumer/src/main/resources/applicationContext-consumer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="188">
+              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -107,8 +136,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/jqh/quickstart/QuickStartServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            <state relative-caret-position="168">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#240#241#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,11 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/jqh/ConsumerClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="264">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,7 +178,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/provider/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="491">
               <caret line="30" column="19" selection-start-line="23" selection-start-column="3" selection-end-line="30" selection-end-column="19" />
             </state>
           </provider>
@@ -163,7 +195,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -173,17 +205,25 @@
         <option value="$PROJECT_DIR$/provider/src/main/resources/applicationContext-hello-provider.xml" />
         <option value="$PROJECT_DIR$/provider/src/main/java/com/jqh/quickstart/QuickStartServiceImpl.java" />
         <option value="$PROJECT_DIR$/provider/src/main/java/com/jqh/ServiceAPI.java" />
-        <option value="$PROJECT_DIR$/provider/src/main/resources/applicationContext-provider.xml" />
         <option value="$PROJECT_DIR$/provider/src/main/java/com/jqh/ProviderClient.java" />
+        <option value="$PROJECT_DIR$/provider/src/main/resources/applicationContext-provider.xml" />
         <option value="$PROJECT_DIR$/consumer/src/main/resources/applicationContext-consumer.xml" />
         <option value="$PROJECT_DIR$/consumer/src/main/java/com/jqh/ConsumerClient.java" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/apache-maven-3.3.3-bin/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.3.3-bin\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="-2" />
+    <option name="y" value="10" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -192,47 +232,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -240,76 +277,80 @@
               <item name="jqh" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jqh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringBoot-Dubbo-meeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBoot-Dubbo-meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
               <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jqh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jqh" type="462c0819:PsiDirectoryNode" />
+              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543731360661" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545751468849" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -384,10 +425,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26126608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -396,14 +447,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29227322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32922733" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32922733" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32922733" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32922733" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32922733" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -422,38 +473,17 @@
     <entry file="file://$PROJECT_DIR$/consumer/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/resources/applicationContext-provider.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="-2400">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/resources/applicationContext-consumer.xml">
+    <entry file="file://$PROJECT_DIR$/provider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/jqh/ServiceAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/jqh/quickstart/QuickStartServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/jqh/ServiceAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="491">
+          <caret line="30" column="19" selection-start-line="23" selection-start-column="3" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -464,34 +494,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/jqh/ServiceAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/jqh/ServiceAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/resources/applicationContext-provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/jqh/quickstart/QuickStartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/jqh/ProviderClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="28" selection-start-line="6" selection-start-column="7" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="288">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/resources/applicationContext-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/jqh/ConsumerClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        <state relative-caret-position="264">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="30" column="19" selection-start-line="23" selection-start-column="3" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
